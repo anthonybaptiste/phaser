@@ -11,6 +11,7 @@ Cities: Alkindar *, Brytan, Coramen, Cormaed, Ionin Spring, Jurador, Malden, Mar
 POI: River Eldar, Sea of Storms
 
 Amadicia *
+bonjour
 
 Capital: Amador
 Cities: Abila, Bellon, Jeramel, Mardecin, Sienda
